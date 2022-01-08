@@ -29,3 +29,33 @@
     margin-bottom: auto;
     margin-right: 1%;
 }
+#icons{
+    margin-top: 0;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+#heart{
+    margin-top: 0;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+#message{
+    margin-top: 0;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+#send{
+    margin-top: 0;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+
+
